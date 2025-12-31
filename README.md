@@ -55,3 +55,9 @@ Once this mapping is calibrated, it never changes.
 - Updating or extending legacy figures  
 - Creating consistent visual comparisons across datasets  
 
+## Video Tutorial
+
+A full walkthrough of the workflow — including calibration, replay mode, and comparison with published figures — is available here:
+
+🎥 **YouTube tutorial:** https://youtu.be/-oI3aeuZq9g
+
