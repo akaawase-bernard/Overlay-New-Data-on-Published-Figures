@@ -1,6 +1,9 @@
 
 ###     Overlay-New-Data-on-Published-Figures
 
+Below is an example of an existing figure image (e.g. from a paper or report) before any new data is overlaid and the after.
+![Original figure before overlay](output/Before.png)
+
 This project provides a **reproducible Python workflow** for overlaying new data onto an existing figure image — including **published figures from papers, PDFs, theses, or reports** — even when the original plotting data is unavailable.
 
 The figure is **calibrated once** by clicking known axis points.  
