@@ -59,5 +59,54 @@ Once this mapping is calibrated, it never changes.
 
 A full walkthrough of the workflow — including calibration, replay mode, and comparison with published figures — is available here:
 
-🎥 **YouTube tutorial:** https://youtu.be/-oI3aeuZq9g
+**YouTube tutorial:** https://youtu.be/-oI3aeuZq9g
+
+
+
+
+## Contributing
+
+Contributions are welcome and encouraged!
+
+If you have ideas to improve the code, fix bugs, add features, or improve documentation, please feel free to get involved.
+
+### How to contribute
+-  **Open an Issue** to report bugs, suggest enhancements, or discuss ideas
+-  **Submit a Pull Request** with improvements, fixes, or new features
+-  Improve documentation, examples, or usage instructions
+
+### Guidelines
+- Please keep pull requests focused and well-documented
+- For major changes, consider opening an issue first to discuss the idea
+- Follow existing code style where possible
+
+By contributing, you agree that your contributions will be licensed under the MIT License.
+
+Thank you for helping improve this project!
+
+
+
+## License
+
+MIT License
+
+Copyright (c) 2025 Bernard Akaawase
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
